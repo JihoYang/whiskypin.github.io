@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>WhiskyPin</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary-text: #1d1d1f;
+            --secondary-text: #86868b;
+            --background: #fbfbfd;
+            --surface: #ffffff;
+            --border: #d2d2d7;
+            --accent: #007aff;
+        }
+
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --primary-text: #f5f5f7;
+                --secondary-text: #a1a1a6;
+                --background: #000000;
+                --surface: #1d1d1f;
+                --border: #424245;
+                --accent: #0a84ff;
+            }
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Segoe UI", Roboto, sans-serif;
+            line-height: 1.6;
+            color: var(--primary-text);
+            background-color: var(--background);
+            font-size: 17px;
+            font-weight: 400;
+        }
+
+        .container {
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 0 22px;
+        }
+
+        header {
+            padding: 60px 0 40px;
+            text-align: center;
+        }
+
+        .logo {
+            max-width: 300px;
+            height: auto;
+            margin-bottom: 40px;
+        }
+
+        h1 {
+            font-size: 56px;
+            font-weight: 600;
+            letter-spacing: -0.003em;
+            margin-bottom: 20px;
+            display: none;
+        }
+
+        .hero-description {
+            font-size: 24px;
+            font-weight: 400;
+            color: var(--secondary-text);
+            line-height: 1.4;
+            margin-bottom: 50px;
+            max-width: 700px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
+        .features-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin: 60px 0;
+        }
+
+        .feature-card {
+            background: var(--surface);
+            border-radius: 18px;
+            padding: 40px 30px;
+            border: 1px solid var(--border);
+            text-align: center;
+            transition: all 0.3s ease;
+        }
+
+        .feature-card:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+        }
+
+        .feature-icon {
+            font-size: 48px;
+            margin-bottom: 20px;
+            display: block;
+        }
+
+        .feature-title {
+            font-size: 24px;
+            font-weight: 600;
+            margin-bottom: 15px;
+            color: var(--primary-text);
+        }
+
+        .feature-description {
+            color: var(--secondary-text);
+            font-size: 17px;
+            line-height: 1.5;
+        }
+
+        .key-features {
+            margin: 80px 0;
+        }
+
+        .section-title {
+            font-size: 40px;
+            font-weight: 600;
+            text-align: center;
+            margin-bottom: 50px;
+            letter-spacing: -0.002em;
+        }
+
+        .contact-section {
+            background: var(--surface);
+            border-radius: 18px;
+            padding: 60px 40px;
+            text-align: center;
+            margin: 80px 0;
+            border: 1px solid var(--border);
+        }
+
+        .contact-title {
+            font-size: 32px;
+            font-weight: 600;
+            margin-bottom: 20px;
+        }
+
+        .contact-email {
+            font-size: 20px;
+            color: var(--accent);
+            text-decoration: none;
+            font-weight: 500;
+        }
+
+        .contact-email:hover {
+            text-decoration: underline;
+        }
+
+        footer {
+            padding: 40px 0 60px;
+            text-align: center;
+            color: var(--secondary-text);
+            font-size: 15px;
+        }
+
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 40px;
+            }
+
+            .hero-description {
+                font-size: 20px;
+            }
+
+            .section-title {
+                font-size: 32px;
+            }
+
+            .features-grid {
+                grid-template-columns: 1fr;
+                gap: 20px;
+            }
+
+            .feature-card {
+                padding: 30px 25px;
+            }
+
+            .contact-section {
+                padding: 40px 30px;
+                margin: 60px 0;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <img id="logo" class="logo" src="assets/whiskypin_logo_text_italic_light.png" alt="WhiskyPin Logo">
+            <h1>WhiskyPin</h1>
+            <p class="hero-description">
+                A community-driven mobile app that helps whisky enthusiasts discover where interesting whiskies can be enjoyed around the world.
+            </p>
+        </header>
+
+        <section class="key-features">
+            <h2 class="section-title">Key Features</h2>
+            <div class="features-grid">
+                <div class="feature-card">
+                    <span class="feature-icon">📍</span>
+                    <h3 class="feature-title">Map-based Discovery</h3>
+                    <p class="feature-description">See where whiskies have been spotted around the world</p>
+                </div>
+                <div class="feature-card">
+                    <span class="feature-icon">🥃</span>
+                    <h3 class="feature-title">Community Posts</h3>
+                    <p class="feature-description">Photos, notes, and verified locations from fellow enthusiasts</p>
+                </div>
+                <div class="feature-card">
+                    <span class="feature-icon">🔑</span>
+                    <h3 class="feature-title">Unlock Locations</h3>
+                    <p class="feature-description">Contribute to the community to explore hidden gems</p>
+                </div>
+            </div>
+        </section>
+
+        <section class="contact-section">
+            <h2 class="contact-title">Contact</h2>
+            <p style="color: var(--secondary-text); margin-bottom: 15px;">For questions or feedback, reach us at:</p>
+            <a href="mailto:connollystr@gmail.com" class="contact-email">connollystr@gmail.com</a>
+        </section>
+    </div>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 WhiskyPin. Discover. Share. Enjoy.</p>
+        </div>
+    </footer>
+
+    <script>
+        // Dark/Light mode logo switching
+        function updateLogo() {
+            const logo = document.getElementById('logo');
+            const isDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches;
+
+            if (isDarkMode) {
+                logo.src = 'assets/whiskypin_logo_text_italic_dark.png';
+            } else {
+                logo.src = 'assets/whiskypin_logo_text_italic_light.png';
+            }
+        }
+
+        // Update logo on page load
+        updateLogo();
+
+        // Listen for color scheme changes
+        window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateLogo);
+    </script>
+</body>
+</html>
