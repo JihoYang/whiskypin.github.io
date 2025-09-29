@@ -4,6 +4,19 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>WhiskyPin</title>
+
+    <!-- Google Analytics 4 -->
+    <!-- GA4 측정 ID를 여기에 입력하세요 (예: G-XXXXXXXXXX) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=GA_MEASUREMENT_ID"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        // GA_MEASUREMENT_ID를 실제 측정 ID로 바꾸세요
+        gtag('config', 'GA_MEASUREMENT_ID');
+    </script>
+
     <style>
         * {
             margin: 0;
@@ -65,13 +78,24 @@
             display: none;
         }
 
+        .hero-headline {
+            font-size: 32px;
+            font-weight: 600;
+            color: var(--primary-text);
+            line-height: 1.3;
+            margin-bottom: 20px;
+            max-width: 800px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+
         .hero-description {
-            font-size: 24px;
+            font-size: 20px;
             font-weight: 400;
             color: var(--secondary-text);
-            line-height: 1.4;
-            margin-bottom: 50px;
-            max-width: 700px;
+            line-height: 1.5;
+            margin-bottom: 40px;
+            max-width: 600px;
             margin-left: auto;
             margin-right: auto;
         }
@@ -154,6 +178,40 @@
             text-decoration: underline;
         }
 
+        .excited-button {
+            background: var(--accent);
+            color: white;
+            border: none;
+            border-radius: 25px;
+            padding: 15px 30px;
+            font-size: 18px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            margin-top: 20px;
+            font-family: inherit;
+        }
+
+        .excited-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 25px rgba(0, 122, 255, 0.3);
+        }
+
+        .excited-button:active {
+            transform: translateY(0);
+        }
+
+        .excited-button.clicked {
+            background: #34C759;
+            animation: pulse 0.6s ease-out;
+        }
+
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+
         footer {
             padding: 40px 0 60px;
             text-align: center;
@@ -166,8 +224,12 @@
                 font-size: 40px;
             }
 
+            .hero-headline {
+                font-size: 28px;
+            }
+
             .hero-description {
-                font-size: 20px;
+                font-size: 18px;
             }
 
             .section-title {
@@ -195,9 +257,15 @@
         <header>
             <img id="logo" class="logo" src="assets/whiskypin_logo_text_italic_light.png" alt="WhiskyPin Logo">
             <h1>WhiskyPin</h1>
+            <h2 class="hero-headline">
+                Ever came across a whisky you wanted to try but couldn't find it anywhere?
+            </h2>
             <p class="hero-description">
-                A community-driven mobile app that helps whisky enthusiasts discover where interesting whiskies can be enjoyed around the world.
+                WhiskyPin is a community-driven mobile app that helps whisky enthusiasts discover where interesting whiskies can be enjoyed around the world.
             </p>
+            <button id="excited-btn" class="excited-button">
+                🥃 Yes, I want this
+            </button>
         </header>
 
         <section class="key-features">
@@ -232,6 +300,38 @@
             <p>&copy; 2025 WhiskyPin. Discover hidden whisky spots.</p>
         </div>
     </footer>
+
+    <script>
+
+        // Excited 버튼 이벤트 리스너
+        document.addEventListener('DOMContentLoaded', function() {
+            const excitedBtn = document.getElementById('excited-btn');
+
+            excitedBtn.addEventListener('click', function() {
+                // 버튼 애니메이션
+                this.classList.add('clicked');
+                this.textContent = '🎉 Gotcha!';
+
+                // Google Analytics 4 이벤트 전송
+                if (typeof gtag !== 'undefined') {
+                    gtag('event', 'excited_button_clicked', {
+                        event_category: 'engagement',
+                        event_label: 'landing_page',
+                        timestamp: new Date().toISOString()
+                    });
+                }
+
+                // 로컬 로깅 (개발용)
+                console.log('Excited button clicked!', new Date().toISOString());
+
+                // 3초 후 버튼 리셋
+                setTimeout(() => {
+                    this.classList.remove('clicked');
+                    this.textContent = '🥃 Excited!';
+                }, 3000);
+            });
+        });
+    </script>
 
     <script>
         // Dark/Light mode logo switching
