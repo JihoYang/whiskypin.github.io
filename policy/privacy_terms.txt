@@ -1,0 +1,354 @@
+WhiskyPin Privacy Policy & Terms of Service
+
+Last updated: September 22nd 2025
+
+WhiskyPin is a community platform for sharing whisky experiences. We respect your privacy and keep things transparent.
+
+== PRIVACY POLICY ==
+
+1. Data We Collect
+- Account: your email address (for login) and a system-generated user ID.
+- Profile: a random nickname.
+- Posts: photos you upload, required whisky name, optional description, EXIF location data and photo timestamp.
+- Technical: timestamps, usage events, error logs.
+
+2. How We Use It
+- To provide account login and post publishing.
+- To display your posts on the map and enable discovery.
+- To maintain reliability and trustworthiness of whisky information.
+- To ensure safety and prevent abuse.
+- We never sell or share your personal data.
+- We may analyze, aggregate, and share anonymized usage patterns (e.g. popular whiskies, regions) with partners. These insights never identify individual users.
+
+3. Who Can See Your Data
+- Other users: only your nickname and posts.
+- Admins: may access your account info only for support or legal compliance.
+
+4. Storage & Retention
+- Data is stored on secure cloud infrastructure (Google Cloud, region: asia-northeast1, Tokyo).
+- Authentication data (email, UID) is stored securely on Google servers.
+- Data is kept until you delete your account.
+- Inactive accounts may be removed after a period of inactivity.
+- Upon account deletion:
+  - Your email and authentication details are erased.
+  - Your posts remain as anonymized content, no longer linked to you.
+
+5. Your Rights
+- You may access, correct, and delete your data at any time in Settings → Privacy.
+- We do not provide automated data export.
+
+6. Contact
+For privacy questions, contact us at connollystr@gmail.com
+
+Consent - Full Details
+When you use WhiskyPin, you consent that:
+- You are of legal drinking age in your jurisdiction and legally permitted to view alcohol-related content.
+- We store your nickname, posts, whisky name, optional description, photos, EXIF location and timestamp.
+- We store your account email and UID for authentication (not shown to others).
+- Your data is used only to operate WhiskyPin, to display posts on the map, and to ensure reliability of whisky information.
+- We may analyze and share only anonymized, aggregated insights (never personal identifiers).
+- You can access, correct, or delete your data anytime.
+- Deleting your account removes your email and UID; your posts remain as anonymized content not linked to you.
+- We never sell personal data.
+
+== TERMS OF SERVICE ==
+
+1. Acceptance of Terms
+By accessing or using WhiskyPin, you agree to be bound by these Terms of Service and all applicable laws and regulations.
+
+2. User Content and Licensing
+- By uploading content to WhiskyPin, you grant us a worldwide, non-exclusive, royalty-free, perpetual, irrevocable license to use, reproduce, modify, adapt, publish, distribute, and display such content in connection with the WhiskyPin service.
+- You retain ownership of your content but grant WhiskyPin the rights necessary to operate the service.
+- All content uploaded becomes part of the WhiskyPin database and may be used to improve the service.
+- You represent and warrant that you have all necessary rights to grant this license for any content you upload.
+
+3. Intellectual Property and Prohibited Uses
+- The WhiskyPin database, including all aggregated user content, is protected by copyright and database rights.
+- You may not scrape, copy, reproduce, distribute, transmit, broadcast, display, sell, license, or otherwise exploit any content from WhiskyPin for any other purposes without our prior written consent.
+- Systematic retrieval of data or content from WhiskyPin to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission is prohibited.
+- Any unauthorized use terminates the permission or license granted by WhiskyPin.
+
+4. User Responsibilities
+- You are responsible for all content you post and activity that occurs under your account.
+- You agree not to upload content that is illegal, harmful, threatening, abusive, defamatory, or otherwise objectionable.
+- You agree not to misrepresent the source, origin, or quality of whisky products.
+- You must not interfere with or disrupt the service or servers.
+
+5. Termination
+We reserve the right to terminate or suspend your account immediately, without prior notice, for any breach of these Terms of Service.
+
+6. Disclaimer and Limitation of Liability
+WhiskyPin is provided "as is" without any warranties. We are not liable for any damages arising from your use of the service.
+
+7. Changes to Terms
+We reserve the right to modify these terms at any time. Continued use after changes constitutes acceptance of the new terms.
+
+8. Governing Law
+These terms are governed by the laws of the jurisdiction in which WhiskyPin operates.
+
+
+WhiskyPin 개인정보 처리방침 및 이용약관
+
+최종 업데이트: 2025년 9월 22일
+
+WhiskyPin은 위스키 경험을 공유하는 커뮤니티 플랫폼입니다. 저희는 사용자의 프라이버시를 존중하며, 투명성을 유지합니다.
+
+== 개인정보 처리방침 ==
+
+1. 수집하는 데이터
+- 계정: 로그인용 이메일 주소, 시스템이 생성한 사용자 ID
+- 프로필: 무작위로 생성된 닉네임
+- 게시물: 업로드한 사진, 필수 위스키 이름, 선택적 설명, 사진의 EXIF 위치 정보 및 촬영 시간
+- 기술 데이터: 타임스탬프, 사용 이벤트, 오류 로그
+
+2. 이용 목적
+- 계정 로그인 및 게시물 업로드 제공
+- 게시물을 지도에 표시하고 다른 사용자가 탐색할 수 있도록 함
+- 위스키 정보의 신뢰성과 정확성을 유지
+- 안전성을 확보하고 남용을 방지
+- 개인정보를 판매하거나 제3자와 공유하지 않습니다
+- 단, 집계·익명화된 사용 패턴(예: 인기 위스키, 지역)은 파트너와 공유될 수 있으며, 개인은 절대 식별되지 않습니다
+
+3. 데이터 접근 권한
+- 다른 사용자: 닉네임과 게시물만 확인 가능
+- 관리자: 지원 및 법적 의무 준수를 위해 계정 정보에 접근할 수 있음
+
+4. 저장 및 보관 기간
+- 데이터는 안전한 클라우드 인프라(Google Cloud, 리전: 도쿄 asia-northeast1)에 저장됩니다
+- 인증 데이터(이메일, UID)는 Google 서버에 안전하게 보관됩니다
+- 데이터는 사용자가 계정을 삭제할 때까지 보관됩니다
+- 일정 기간 비활성화된 계정은 삭제될 수 있습니다
+- 계정 삭제 시:
+  - 이메일과 인증 정보는 삭제됩니다
+  - 게시물은 익명화된 상태로 남아 더 이상 사용자와 연결되지 않습니다
+
+5. 이용자의 권리
+- 언제든지 설정 → 개인정보 메뉴에서 데이터에 접근·수정·삭제할 수 있습니다
+- 자동화된 데이터 내보내기 기능은 제공하지 않습니다
+
+6. 문의
+개인정보 관련 문의: connollystr@gmail.com
+
+동의 – 상세 내용
+WhiskyPin을 사용할 때, 사용자는 다음에 동의합니다:
+- 귀하는 관할 지역에서 법적 음주 연령에 도달했으며 주류 관련 콘텐츠를 합법적으로 볼 수 있습니다.
+- 닉네임, 게시물, 위스키 이름, 선택적 설명, 사진, EXIF 위치 및 촬영 시간을 저장합니다
+- 계정 인증을 위해 이메일과 UID를 저장합니다 (다른 사용자에게 공개되지 않음)
+- 데이터는 WhiskyPin 운영, 지도 표시, 위스키 정보 신뢰성 확보를 위해서만 사용됩니다
+- 집계·익명화된 인사이트만 분석·공유하며, 개인을 식별하지 않습니다
+- 언제든 데이터 접근, 수정, 삭제가 가능합니다
+- 계정 삭제 시 이메일과 UID는 삭제되며, 게시물은 익명화된 상태로 남습니다
+- 개인정보는 절대 판매하지 않습니다
+
+== 이용약관 ==
+
+1. 약관의 동의
+WhiskyPin에 접속하거나 이용함으로써 귀하는 본 이용약관 및 모든 관련 법령과 규정을 준수하는 것에 동의합니다.
+
+2. 사용자 콘텐츠 및 라이선스
+- WhiskyPin에 콘텐츠를 업로드함으로써 귀하는 WhiskyPin 서비스와 관련하여 해당 콘텐츠를 사용, 복제, 수정, 각색, 게시, 배포 및 표시할 수 있는 전 세계적, 비독점적, 로열티 무료, 영구적, 취소 불가능한 라이선스를 당사에 부여합니다.
+- 귀하는 콘텐츠의 소유권을 보유하지만 WhiskyPin이 서비스를 운영하는 데 필요한 권리를 부여합니다.
+- 업로드된 모든 콘텐츠는 WhiskyPin 데이터베이스의 일부가 되며 서비스 개선에 사용될 수 있습니다.
+- 귀하는 업로드하는 모든 콘텐츠에 대해 이러한 라이선스를 부여할 수 있는 모든 필요한 권리를 보유하고 있음을 진술하고 보증합니다.
+
+3. 지적재산권 및 금지된 사용
+- 모든 집계된 사용자 콘텐츠를 포함한 WhiskyPin 데이터베이스는 저작권 및 데이터베이스권으로 보호됩니다.
+- 당사의 사전 서면 동의 없이 WhiskyPin의 콘텐츠를 다른 목적으로 스크랩, 복사, 복제, 배포, 전송, 방송, 전시, 판매, 라이선스 부여 또는 기타 방식으로 이용할 수 없습니다.
+- 서면 허가 없이 WhiskyPin에서 데이터나 콘텐츠를 체계적으로 검색하여 직간접적으로 컬렉션, 편집물, 데이터베이스 또는 디렉토리를 생성하거나 편집하는 것은 금지됩니다.
+- 무단 사용 시 WhiskyPin이 부여한 허가 또는 라이선스는 즉시 종료됩니다.
+
+4. 사용자 책임
+- 귀하는 게시하는 모든 콘텐츠와 계정에서 발생하는 모든 활동에 대해 책임을 집니다.
+- 불법적이거나 유해하거나 위협적이거나 모욕적이거나 명예훼손적이거나 기타 불쾌한 콘텐츠를 업로드하지 않을 것에 동의합니다.
+- 위스키 제품의 출처, 원산지 또는 품질을 허위로 표시하지 않을 것에 동의합니다.
+- 서비스나 서버를 방해하거나 중단시키지 않아야 합니다.
+
+5. 계정 종료
+당사는 본 이용약관 위반 시 사전 통지 없이 즉시 귀하의 계정을 종료하거나 정지할 권리를 보유합니다.
+
+6. 면책 조항 및 책임 제한
+WhiskyPin은 어떠한 보증 없이 "있는 그대로" 제공됩니다. 당사는 서비스 이용으로 인해 발생하는 어떠한 손해에 대해서도 책임지지 않습니다.
+
+7. 약관의 변경
+당사는 언제든지 본 약관을 수정할 권리를 보유합니다. 변경 후 계속 사용하는 것은 새로운 약관에 동의하는 것으로 간주됩니다.
+
+8. 준거법
+본 약관은 WhiskyPin이 운영되는 관할 구역의 법률에 따라 규율됩니다.
+
+
+WhiskyPin プライバシーポリシー及び利用規約
+
+最終更新日: 2025年9月22日
+
+WhiskyPinはウイスキー体験を共有するコミュニティプラットフォームです。私たちはユーザーのプライバシーを尊重し、透明性を保ちます。
+
+== プライバシーポリシー ==
+
+1. 収集するデータ
+- アカウント: ログイン用メールアドレス、システム生成のユーザーID
+- プロフィール: ランダムに生成されたニックネーム
+- 投稿: アップロードした写真、必須のウイスキー名、任意の説明、EXIF位置情報および撮影時間
+- 技術情報: タイムスタンプ、利用イベント、エラーログ
+
+2. 利用目的
+- アカウントログインおよび投稿公開のため
+- 投稿を地図に表示し、他のユーザーが発見できるようにするため
+- ウイスキー情報の信頼性と正確性を維持するため
+- 安全性を確保し、不正利用を防止するため
+- 個人データを販売または第三者と共有することはありません
+- 集計・匿名化された利用パターン（例: 人気のウイスキー、地域）をパートナーと共有することがありますが、個人を特定することはありません
+
+3. データの公開範囲
+- 他のユーザー: ニックネームと投稿のみ閲覧可能
+- 管理者: サポートや法的義務に基づきアカウント情報にアクセスする場合があります
+
+4. 保管と保持期間
+- データは安全なクラウドインフラ（Google Cloud、リージョン: 東京 asia-northeast1）に保存されます
+- 認証データ（メール、UID）はGoogleサーバーに安全に保存されます
+- データはユーザーがアカウントを削除するまで保持されます
+- 一定期間非アクティブなアカウントは削除される場合があります
+- アカウント削除時:
+  - メールと認証情報は削除されます
+  - 投稿は匿名化され、ユーザーと関連付けられない形で残ります
+
+5. ユーザーの権利
+- 設定 → プライバシーから、いつでもデータにアクセス・修正・削除が可能です
+- 自動化されたデータエクスポートは提供していません
+
+6. お問い合わせ
+プライバシーに関するお問い合わせ: connollystr@gmail.com
+
+同意 – 詳細
+WhiskyPinを利用する際、ユーザーは以下に同意します:
+- お客様は管轄地域における法定飲酒年齢に達しており、アルコール関連コンテンツを合法的に閲覧できます。
+- ニックネーム、投稿、ウイスキー名、任意の説明、写真、EXIF位置情報と撮影時間を保存します
+- 認証のためにメールとUIDを保存します（他ユーザーには公開されません）
+- データはWhiskyPinの運営、地図表示、ウイスキー情報の信頼性確保のみに使用されます
+- 集計・匿名化されたインサイトのみを分析・共有し、個人を特定することはありません
+- データのアクセス、修正、削除はいつでも可能です
+- アカウント削除時、メールとUIDは削除され、投稿は匿名化された状態で残ります
+- 個人データは絕対に販売しません
+
+== 利用規約 ==
+
+1. 規約への同意
+WhiskyPinにアクセスまたは利用することにより、お客様は本利用規約およびすべての適用される法令・規則に拘束されることに同意します。
+
+2. ユーザーコンテンツとライセンス
+- WhiskyPinにコンテンツをアップロードすることにより、お客様は当社に対し、WhiskyPinサービスに関連して当該コンテンツを使用、複製、修正、改作、公開、配布、表示するための全世界的、非独占的、ロイヤリティフリー、永続的、取消不能なライセンスを付与します。
+- お客様はコンテンツの所有権を保持しますが、WhiskyPinがサービスを運営するために必要な権利を付与します。
+- アップロードされたすべてのコンテンツはWhiskyPinデータベースの一部となり、サービスの改善に使用される可能性があります。
+- お客様は、アップロードするコンテンツについて、このライセンスを付与するために必要なすべての権利を有していることを表明し、保証します。
+
+3. 知的財産権と禁止される使用
+- すべての集約されたユーザーコンテンツを含むWhiskyPinデータベースは、著作権およびデータベース権により保護されています。
+- 当社の事前の書面による同意なく、WhiskyPinのコンテンツを他の目的でスクレイピング、コピー、複製、配布、送信、放送、表示、販売、ライセンス供与、その他の方法で利用することはできません。
+- 書面による許可なくWhiskyPinからデータやコンテンツを体系的に取得して、直接的または間接的にコレクション、編集物、データベース、ディレクトリを作成または編集することは禁止されています。
+- 無許可の使用により、WhiskyPinが付与した許可またはライセンスは終了します。
+
+4. ユーザーの責任
+- お客様は投稿するすべてのコンテンツと、アカウントで発生するすべての活動に責任を負います。
+- 違法、有害、脅迫的、虐待的、名誉毀損的、またはその他好ましくないコンテンツをアップロードしないことに同意します。
+- ウイスキー製品の出所、原産地、品質を偽って表示しないことに同意します。
+- サービスやサーバーを妨害または中断してはなりません。
+
+5. アカウントの終了
+当社は、本利用規約違反の場合、事前の通知なく直ちにお客様のアカウントを終了または停止する権利を留保します。
+
+6. 免責事項と責任制限
+WhiskyPinは「現状有姿」で提供され、いかなる保証もありません。当社はサービスの利用から生じるいかなる損害についても責任を負いません。
+
+7. 規約の変更
+当社はいつでも本規約を変更する権利を留保します。変更後の継続的な使用は、新しい規約への同意とみなされます。
+
+8. 準拠法
+本規約はWhiskyPinが運営される管轄区域の法律に準拠します。
+
+
+WhiskyPin 隱私權政策與服務條款
+
+最後更新日期: 2025年9月22日
+
+WhiskyPin 是一個分享威士忌體驗的社群平台。我們尊重您的隱私，並保持透明。
+
+== 隱私權政策 ==
+
+1. 我們收集的資料
+- 帳號: 登入用電子郵件地址、系統自動產生的使用者ID
+- 個人資料: 隨機產生的暱稱
+- 貼文: 上傳的照片、必填的威士忌名稱、可選的描述、EXIF位置資料與拍攝時間
+- 技術資料: 時間戳記、使用事件、錯誤日誌
+
+2. 使用目的
+- 提供帳號登入與貼文發布
+- 在地圖上顯示貼文，方便其他使用者探索
+- 維護威士忌資訊的可靠性與可信度
+- 確保安全並防止濫用
+- 我們絕不出售或與第三方分享您的個人資料
+- 我們可能會分析、彙總並分享匿名化的使用模式（例如熱門威士忌或地區），但絕不會識別個人
+
+3. 誰可以看到您的資料
+- 其他使用者: 只能看到您的暱稱與貼文
+- 管理員: 僅在提供支援或符合法律要求時能存取您的帳號資訊
+
+4. 儲存與保存期限
+- 資料儲存在安全的雲端基礎設施（Google Cloud，地區: 東京 asia-northeast1）
+- 認證資料（電子郵件、UID）安全地儲存在 Google 伺服器上
+- 資料會保存至您刪除帳號為止
+- 長期不活躍的帳號可能會被刪除
+- 刪除帳號時:
+  - 電子郵件與認證資料將被刪除
+  - 貼文將以匿名化內容保留，且不再與您連結
+
+5. 您的權利
+- 您可隨時在 設定 → 隱私權 中存取、更正或刪除您的資料
+- 我們不提供自動化的資料匯出功能
+
+6. 聯絡方式
+隱私相關問題請聯繫: connollystr@gmail.com
+
+同意 – 詳細
+當您使用WhiskyPin時，即表示您同意:
+- 您已達到所在司法管轄區的法定飲酒年齡，並可合法查看酒類相關內容。
+- 我們會儲存您的暱稱、貼文、威士忌名稱、可選描述、照片、EXIF位置與拍攝時間
+- 我們會儲存您的帳號電子郵件與UID以供認證（不會公開給其他使用者）
+- 您的資料僅用於WhiskyPin的運作、地圖顯示，以及確保威士忌資訊的可信度
+- 我們僅會分析並分享匿名化、彙總後的資料洞察，絕不識別個人
+- 您可隨時存取、更正或刪除您的資料
+- 刪除帳號時，電子郵件與UID會被刪除；貼文則會以匿名化狀態保留
+- 我們從不出售個人資料
+
+== 服務條款 ==
+
+1. 接受條款
+存取或使用WhiskyPin即表示您同意受本服務條款及所有適用法律法規的約束。
+
+2. 使用者內容與授權
+- 透過上傳內容至WhiskyPin，您授予我們全球性、非專屬、免權利金、永久、不可撤銷的授權，以使用、重製、修改、改編、發布、散布及展示該內容用於WhiskyPin服務。
+- 您保留內容的所有權，但授予WhiskyPin營運服務所需的權利。
+- 所有上傳的內容將成為WhiskyPin資料庫的一部分，並可能用於改進服務。
+- 您聲明並保證對您上傳的任何內容擁有授予此授權所需的所有必要權利。
+
+3. 智慧財產權與禁止用途
+- WhiskyPin資料庫（包括所有彙總的使用者內容）受著作權與資料庫權保護。
+- 未經我們事先書面同意，您不得為任何其他目的抓取、複製、重製、散布、傳輸、廣播、展示、販售、授權或以其他方式利用WhiskyPin的任何內容。
+- 禁止在未經書面許可的情況下，系統性地從WhiskyPin檢索資料或內容以直接或間接地建立或編譯集合、彙編、資料庫或目錄。
+- 任何未經授權的使用將終止WhiskyPin授予的許可或授權。
+
+4. 使用者責任
+- 您對您發布的所有內容及在您帳號下發生的所有活動負責。
+- 您同意不上傳違法、有害、威脅性、辱罵性、誹謗性或其他令人反感的內容。
+- 您同意不虛假陳述威士忌產品的來源、產地或品質。
+- 您不得干擾或中斷服務或伺服器。
+
+5. 終止帳號
+我們保留在違反本服務條款時立即終止或暫停您的帳號的權利，恕不另行通知。
+
+6. 免責聲明與責任限制
+WhiskyPin以「現狀」提供，不提供任何保證。我們對因使用服務而產生的任何損害不承擔責任。
+
+7. 條款變更
+我們保留隨時修改這些條款的權利。變更後繼續使用即表示接受新條款。
+
+8. 準據法
+本條款受WhiskyPin營運所在司法管轄區的法律管轄。
